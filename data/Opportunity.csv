@@ -1,0 +1,3 @@
+Guid,Name,Description,StageName,Amount,Probability,CloseDate,Type,NextStep,LeadSource,ForecastCategoryName,SBQQ__Contracted__c,SBQQ__CreateContractedPrices__c,SBQQ__OrderGroupID__c,SBQQ__Ordered__c,SBQQ__QuotePricebookId__c,SBQQ__Renewal__c
+b2d6ac7b-6772-4ba3-b870-9783cbe536c2,salesforce.com - 5000 Widgets,Initial deal for 5000 widgets. We expect follow-on business with a potential upside of 40000 additional widgets over the next 12 months.,Closed Won,130000.0,100.0,2020-08-13,New Business,Closed!,Advertisement,Closed,false,false,#N/A,false,#N/A,false
+78bd6880-1c2a-4b1f-bc8b-b7520751b2db,test,#N/A,Value Proposition,120000.0,50.0,2024-05-09,#N/A,#N/A,#N/A,Pipeline,false,false,#N/A,false,#N/A,false
