@@ -1,0 +1,5 @@
+Guid,OpportunityId,SortOrder,PricebookEntryId,Product2Id,Quantity,TotalPrice,UnitPrice,ServiceDate,Description,SBQQ__ParentID__c,SBQQ__SubscriptionType__c
+dbc55d72-8df5-47c9-ba61-012604ca085e,b2d6ac7b-6772-4ba3-b870-9783cbe536c2,#N/A,f7415957-3969-488c-85bc-c069e13175c4,a942455d-f42a-4730-9f57-5f06974f27f0,12.0,120000.0,#N/A,#N/A,#N/A,#N/A,#N/A
+c699fc31-fce8-4932-af46-0fb8edac87d4,b2d6ac7b-6772-4ba3-b870-9783cbe536c2,#N/A,f7415957-3969-488c-85bc-c069e13175c4,a942455d-f42a-4730-9f57-5f06974f27f0,1.0,10000.0,#N/A,#N/A,#N/A,#N/A,#N/A
+0f61f1dc-cb66-4d6e-be3c-cffd8cac3de0,78bd6880-1c2a-4b1f-bc8b-b7520751b2db,#N/A,f7415957-3969-488c-85bc-c069e13175c4,a942455d-f42a-4730-9f57-5f06974f27f0,2.0,20000.0,#N/A,#N/A,#N/A,#N/A,#N/A
+6727ed8a-8e59-4584-81a3-c3235d6a5e27,78bd6880-1c2a-4b1f-bc8b-b7520751b2db,#N/A,6480dbee-7123-4820-97e0-7e58cbc434bd,ac6b2e51-c852-4f0f-8adf-81238cb1c4b3,100.0,100000.0,#N/A,#N/A,#N/A,#N/A,#N/A
